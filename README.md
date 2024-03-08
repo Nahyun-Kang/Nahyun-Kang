@@ -15,8 +15,10 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white">
   </div>
-  <div>
+  <div marginBottom="20px">
     <img src="https://img.shields.io/badge/Tailwind CSS-06b6d4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
     <img src="https://img.shields.io/badge/Recoil-3578e5?style=for-the-badge&logo=Recoil&logoColor=white">
   </div>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNahyun-Kang&count_bg=%23DBDBDB&title_bg=%23FF9292&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>               
 </div>
